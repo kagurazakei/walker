@@ -13,7 +13,7 @@
           <class name="box-wrapper"></class>
         </style>
         <property name="overflow">hidden</property>
-        <property name="orientation">horizontal</property>
+        <property name="orientation">vertical</property>
         <property name="margin-top">30</property>
         <property name="valign">center</property>
         <property name="halign">center</property>

@@ -13,7 +13,7 @@
           <class name="item-image"></class>
         </style>
         <property name="content-fit">cover</property>
-        <property name="height-request">100</property>
+        <property name="height-request">280</property>
       </object>
     </child>
     <child>

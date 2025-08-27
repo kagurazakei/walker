@@ -14,8 +14,8 @@
         </style>
         <property name="overflow">hidden</property>
         <property name="orientation">horizontal</property>
-        <property name="margin-top">300</property>
-        <property name="valign">start</property>
+        <property name="margin-top">30</property>
+        <property name="valign">center</property>
         <property name="halign">center</property>
         <child>
           <object class="GtkBox" id="Box">
@@ -62,7 +62,7 @@
                     </style>
                     <property name="label">No Results</property>
                     <property name="height-request">400</property>
-                    <property name="width-request">500</property>
+                    <property name="width-request">450</property>
                   </object>
                 </child>
                 <child>
